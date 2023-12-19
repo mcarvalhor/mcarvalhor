@@ -1,6 +1,5 @@
 # Hi there 👋
 This is my GitHub profile. Here you can find open source projects I've been working on.
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=mcarvalhor&show_icons=true&count_private=true&include_all_commits=true&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcarvalhor&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💻 Projects
