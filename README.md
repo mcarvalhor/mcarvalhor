@@ -9,6 +9,7 @@ Take a look at these:
 - [HIFAL](https://github.com/mcarvalhor/HIFAL): Fast and lightweight HTTP server.
 - [Pi-cooler](https://github.com/mcarvalhor/pi-cooler): A Raspberry Pi's cooler fan controller software.
 - [CAJUS](https://github.com/mcarvalhor/CAJUS): Lets you create and manage friendly, short URLs on your website.
+- [Adrenaline](https://github.com/mcarvalhor/Adrenaline): Adrenaline can be used to simulate a key press on your keyboard.
 
 ### 📫 Contact
 You can find me at my personal [home page](http://mcarvalhor.com/).
